@@ -3,7 +3,7 @@ This repository is having all the codes written for analyzing the Summer Olympic
 
 I've used Pandas and Seaborn libraries of Pyhton for analysing.
 
-##I have analyzed 6 questions in this dataset.
+## I have analyzed 6 questions in this dataset.
 1. In how many cities Summer Olympics is held so far?
 2. Which sport is having most number of Gold Medals so far? (Top 5).
 3. Which sport is having most number of medals so far? (Top 5).
