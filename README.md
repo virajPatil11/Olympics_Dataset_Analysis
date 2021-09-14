@@ -1,5 +1,5 @@
 # Olympics_Dataset_Analysis
-This repository is having all the codes written for analyzing the Summer Olympics Analysis.
+This repository is having all the codes written for analyzing the Summer Olympics Analysis during ETG Python for AI/ML Internship
 
 I've used Pandas and Seaborn libraries of Pyhton for analysing.
 
